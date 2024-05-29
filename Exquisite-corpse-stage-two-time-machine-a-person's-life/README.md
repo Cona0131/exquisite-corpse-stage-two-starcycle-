@@ -1,5 +1,5 @@
 # Exquisite Corpse in Silico
-## 🔻 Time Machine - A Person's Lifetime🔻
+## 🔻 starcycle🔻
 
 This README file contains:
 - Briefs for each stage of the assignment
@@ -29,24 +29,33 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ## Comments for each stage
 
 ### 🟥 Stage 1
-- Name/Alias:Ruiting Zhuang
-- Github account:https://github.com/noon0v0
-- Published webpage for stage 1:https://noon0v0.github.io/exquisite-corpse-stage-1-Time-Machine-A-Person-s-Lifetime/
+- Name/Alias:Cat Hayward
+- Github account:https://github.com/cathayward
+- Published webpage for stage 1:https://cathayward.github.io/exquisite-corpse-stage--1---starcycle-/
 
-Welcome to the Time Machine, where you embark on a marvelous journey through the passages of time. In this mystical realm, I paint vivid scenes from different stages of a lifetime, allowing you to feel the passage of time and the transformations of life.
+stage one: Create a sketch that shows an unconventional representation of time. This 'clock' should be constantly changing, but its appearance can repeat in a subsequent cycle. It does not need to follow a 24-hour cycle (you can use any timescale). Give your sketch a unique title and edit the README file accordingly.
 
-At the center of the canvas stands a magnificent clock, its hands delineating the 13 different stages of life. Every second, the background shifts like waves of time, carrying us through the river of time. The clock's hands whirl swiftly with the passage of time, and every 13 seconds, we return to the starting point, symbolizing the cyclical nature of time and life's repetitions.
+in regards to the unconventional representation of time i wanted to explore the lifecycle of a star from birth to death.
 
-With each movement of the hands, we witness the ups and downs of life. From the first cry of infancy to carrying a backpack and pursuing dreams in school, from the confidence of post-graduation to the anticipation of walking down the aisle, from building a fulfilling family to witnessing the growth of children and bidding them blessings, and then facing aging, illness, watching loved ones depart, and finally, growing old and leaving this world. The relentless movement of the clock prompts us to contemplate the passing of time and reflect deeply on the meaning of life.
+the cycle goes as follows:
 
-In this journey, we experience the unforgiving nature of time and comprehend the preciousness of life. Let us cherish every moment and live a vibrant life, for the passage of time is also our journey of growth and transformation.
+a nebulas - which is a cloud of gases and dust that is being condensed by gravity
+main sequence star - otherwise known as supermassive and has a stable core - it then expands and gets hotter - 90% of its life time
+a red supergiant is then formed which has an unstable core and when that core implodes, collapses and bursts into a
+supernova - freeing all elements created in its lifetime
+what’s left of the star is a stellar black hole that has an intense gravitational pull
+In what sense is a star’s lifecycle an ‘unconventional’ representation of time? The life cycle of a star is an unconventional representation of time because it takes millions, if not billions of years for a star to completely die off. A time frame completely unfathomable to the human mind. The scale is completely out of proportion to our human history, and some stars have lived much longer than humanity.
+
+Second, processes within a star, such as nuclear fusion in its core, occur at incredibly high temperatures and pressures. This leads to rapid changes and transformations over much shorter periods of time compared to the overall lifespan of the star. This rapid change in the core reminds me of a computing and coding environment. The complex interactions in the star's core that create emergent behaviors and phenomena can then be compared to the performance of machine learning and artificial intelligence algorithms. Just as stars evolve and exhibit different stages of their life cycle, artificial intelligence systems learn from data and experience to adapt and improve
 
 ### 🟨 Stage 2
 - Name/Alias:Cona Cheng
 - Github account:
 - Published webpage for stage 2:
 
-*... comments to be added here*
+This is a work I like very much. The vast starry sky can best prove the portrayal of time on history. This is a macro perspective. The rapid increase of stars is like the accumulation of time, so fast that people can't count them and can't see through them.
+
+Changes:I changed the trajectory of the stars a little bit, so that they don't look particularly random, but more like a patchwork of patterns. When you try hard to see and explore the final pattern, you will find that everything disappears and starts over again, just like the traces left by time, which will also be washed away by time.
 
 ### 🟩 Stage 3
 - Name/Alias:
