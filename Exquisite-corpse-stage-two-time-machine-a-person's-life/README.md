@@ -57,6 +57,8 @@ This is a work I like very much. The vast starry sky can best prove the portraya
 
 Changes:I changed the trajectory of the stars a little bit, so that they don't look particularly random, but more like a patchwork of patterns. When you try hard to see and explore the final pattern, you will find that everything disappears and starts over again, just like the traces left by time, which will also be washed away by time.
 
+I also changed the colors of the background and stars, making them reversed. Before time began, everything was white. When time began to pass, the black stars swallowed everything like the traces of time. And this color conversion also broke people's ideological constraints on common sense.
+
 ### 🟩 Stage 3
 - Name/Alias:
 - Github account:
