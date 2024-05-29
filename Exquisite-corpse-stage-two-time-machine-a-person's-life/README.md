@@ -51,7 +51,7 @@ Second, processes within a star, such as nuclear fusion in its core, occur at in
 ### 🟨 Stage 2
 - Name/Alias:Cona Cheng
 - Github account:https://github.com/Cona0131
-- Published webpage for stage 2:
+- Published webpage for stage 2:https://cona0131.github.io/exquisite-corpse-stage-two-starcycle-/
 
 This is a work I like very much. The vast starry sky can best prove the portrayal of time on history. This is a macro perspective. The rapid increase of stars is like the accumulation of time, so fast that people can't count them and can't see through them.
 
